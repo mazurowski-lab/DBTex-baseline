@@ -14,6 +14,9 @@ We offer the notebook **preprocess.ipynb** to do data preprocssing, which could 
 ## training model
 For training, we offer the notebook **train&evaluate.ipynb**.
 
+## evaluating model
+We saved our trained models in /work_dirs/breast. If you want to evaluate our pretrained checkpoints, you can set the cfg.work_dirs as the pretrained model.
+
 ## testing model
 For testing, we offer the notebook **generate_test_table.ipynb** to reproduce the testing result dable described in xxx competation paper.
 
