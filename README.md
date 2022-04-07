@@ -1,4 +1,4 @@
-# DBT-DCS-baseline
+# DBT-BCS-baseline
 This is a baseline implementation of tumor detection on DBT-DCS dataset.
 
 We provide notebooks from pre-processing and dataset preparation to training and testing stages. We offered two version of Faster-RCNN implemenation.
