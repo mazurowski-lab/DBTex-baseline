@@ -4,7 +4,7 @@ This is an implementation of a basic Faster R-CNN model for breast tumor detecti
 We provide notebooks from pre-processing and dataset preparation to training and testing stages. We offer two version of the Faster-RCNN implemenation.
 
 ## Installation
-We build our implemenation mainly based on MMDection. The installation of MMDetection can be found here(https://github.com/open-mmlab/mmdetection).
+We build our implemenation mainly based on MMDection. The installation of MMDetection can be found [here](https://github.com/open-mmlab/mmdetection).
 
 ## Preparing Data
 The raw (DICOM) image data and annotation/label tables can be downloaded from [the BCS-DBT page on The Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=64685580). After downloading the tables, put them in ``./data+_csv``.
