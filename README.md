@@ -1,5 +1,5 @@
 # DBTex-baseline
-This is an implementation of a basic Faster R-CNN model for breast tumor detection on the ultra-high resolution Duke BCS-DBT (Breast Cancer Screening - Digital Breast Tomosynthesis) dataset, to be used as a "baseline" model for the [DBTex breast lesion detection challenge](https://www.aapm.org/GrandChallenge/DBTex2/) and [benchmark](https://spie-aapm-nci-dair.westus2.cloudapp.azure.com/competitions/9).
+This is an implementation of a basic Faster R-CNN model for breast tumor detection on the ultra-high resolution Duke BCS-DBT (Breast Cancer Screening - Digital Breast Tomosynthesis) dataset, to be used as a "baseline" model for the [DBTex breast lesion detection challenge](https://www.aapm.org/GrandChallenge/DBTex2/) and [benchmark]([https://spie-aapm-nci-dair.westus2.cloudapp.azure.com/competitions/9](https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt/)).
 
 We provide notebooks from pre-processing and dataset preparation to training and testing stages. We offer two version of the Faster-RCNN implementation.
 
